@@ -1,0 +1,5 @@
+﻿{
+    "machineTool": [
+        { "fileName":"MachineTool_FiveAxis" , "showName":"五轴" }
+    ]
+}

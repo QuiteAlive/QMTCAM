@@ -1,0 +1,108 @@
+{
+    "machineFile": [
+        {
+            "fileName": "MachineTool_FiveAxis_11",
+            "showName": "ceshi"
+        },
+        {
+            "fileName": "MachineTool_FiveAxis_12",
+            "showName": "1111"
+        },
+        {
+            "fileName": "MachineTool_FiveAxis_13",
+            "showName": "222"
+        }
+    ],
+    "tenonModule": [
+        {
+            "fileName": "TenonModule_ZhiSun",
+            "showName": "直榫",
+            "type": 1
+        },
+        {
+            "fileName": "TenonModule_XieSun",
+            "showName": "斜榫",
+            "type": 2
+        },
+        {
+            "fileName": "TenonModule_FangGongShuangSun",
+            "showName": "方双公榫",
+            "type": 1
+        },
+        {
+            "fileName": "TenonModule_TuoYuanShuangMuSun",
+            "showName": "椭圆双母榫",
+            "type": 1
+        },
+        {
+            "fileName": "TenonModule_PiaoJianSun1",
+            "showName": "直虎脚无头榫1",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_PiaoJianSun2",
+            "showName": "直虎脚无头榫2",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_PiaoJianSun3",
+            "showName": "直虎脚无头榫3",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_ZongJiaoSun1",
+            "showName": "粽角榫1",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_ZongJiaoSun2",
+            "showName": "粽角榫2",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_ZongJiaoSun3",
+            "showName": "粽角榫3",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_QianDingSun",
+            "showName": "嵌钉明榫",
+            "type": 1
+        },
+        {
+            "fileName": "TenonModule_ChaoShouSanSunZuo",
+            "showName": "抄手三榫(右)",
+            "type": 2
+        },
+        {
+            "fileName": "TenonModule_ChaoShouSanSunYou",
+            "showName": "抄手三榫(左)",
+            "type": 2
+        },
+        {
+            "fileName": "TenonModule_YaBanSun",
+            "showName": "牙板榫",
+            "type": 1
+        },
+        {
+            "fileName": "TenonModule_PiaoJianSun",
+            "showName": "飘肩榫",
+            "type": 3
+        },
+        {
+            "fileName": "TenonModule_ChaJianSun",
+            "showName": "插肩单榫",
+            "type": 2
+        },
+        {
+            "fileName": "TenonModule_ChaoShouTwoSunYou",
+            "showName": "抄手双榫",
+            "type": 2
+        },
+        {
+            "fileName": "TenonModule_SanTongSun",
+            "showName": "同料通三榫",
+            "type": 1
+        }
+    ]
+}
